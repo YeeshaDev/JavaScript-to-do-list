@@ -137,4 +137,15 @@ input {
     .container {
         margin: 0.8rem 1.2rem;
     }
+ .heading {
+      padding:20px 30px;
+}
+
+   .heading h2 {
+font-size: 1.5rem;
+}
+  .addBtn {
+  padding: 10px;
+  text-align:center;
+}
 }
